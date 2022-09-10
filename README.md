@@ -25,6 +25,11 @@ tiktok
 
 https://www.tiktok.com/@haruya_room
 
+spoon（音声生配信　毎日　２３時～０時まで）
+
+https://spoon.onelink.me/Uuzo/zz0yf3ha
+
+
 下記の事をやらせていただいています。
 
 ・動画編集
