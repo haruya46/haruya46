@@ -21,6 +21,10 @@ youtube
 
 https://www.youtube.com/channel/UCOxcqVKXHni-A89qVRCkvtA/videos
 
+tiktok
+
+https://www.tiktok.com/@haruya_room
+
 下記の事をやらせていただいています。
 
 ・動画編集
