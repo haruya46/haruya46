@@ -1,16 +1,25 @@
 名前：はるや
+
 年齢：２０
+
 趣味：プログラミング、動画編集、動画制作、料理、サッカー
+
 職業：クリエイター
 
 
 SNS
-　Twitter
- 　　https://twitter.com/haruyablog
-  Instagram
-  　https://www.instagram.com/haruyablog/
-  youtube
-    https://www.youtube.com/channel/UCOxcqVKXHni-A89qVRCkvtA/videos
+
+Twitter
+
+https://twitter.com/haruyablog
+
+Instagram
+
+https://www.instagram.com/haruyablog/
+
+youtube
+
+https://www.youtube.com/channel/UCOxcqVKXHni-A89qVRCkvtA/videos
 
 下記の事をやらせていただいています。
 
