@@ -35,12 +35,12 @@ https://prt.haruya.tokyo/contact
     https://www.youtube.com/channel/UCtfCIUEr4xhabAfdCDEukAQ
 
   ホームページ制作
-    タイトル：Furniture-Design
+    Furniture-Design
     https://haruya46.github.io/Furniture-Design/
     コード
     https://github.com/haruya46/Furniture-Design
 
-    タイトル:My-Work
+    My-Work
     https://haruya46.github.io/My-Work/
     コード
     https://github.com/haruya46/My-Work
