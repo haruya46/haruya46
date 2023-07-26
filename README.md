@@ -4,7 +4,14 @@
 
 趣味：プログラミング
 
-ポートフォリオ
+成果物
+
+・管理栄養士勉強サイト
+https://app.haruya.tokyo/
+
+コード
+
+https://github.com/haruya46/nutrition_study
     
 ・Furniture-Design
 
